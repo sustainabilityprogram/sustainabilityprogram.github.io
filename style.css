@@ -1,0 +1,52 @@
+body {
+    background-image: url("Media/aerial-view-woman-using-digital-tablet-with-design-space-startup-concept_53876-11976.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#page_menu {
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+#page_menu ul {
+    display: inline-flex;
+    list-style: none;
+    margin: 0px;
+    padding-left: 15px;
+}
+
+#page_menu a {
+    color: gray;
+    text-decoration: none;
+    max-height: 50px;
+    font-size: 18px;
+}
+
+#el_a {
+    padding: 25px 30px 25px 30px;
+}
+
+#img_a {
+    padding: 10px 30px 10px 30px;
+}
+
+#page_menu ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-height: 50px;
+    max-width: auto;
+    padding: 10px 0px 10px 0px;
+}
+ 
+.drop-down-content {
+    list-style: none;
+    display: none;
+}
